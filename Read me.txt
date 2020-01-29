@@ -1,0 +1,11 @@
+How to run!
+
+1. Create spring boot application and add downloaded files or create spring boot application with existing source using files
+2. Install mongo db
+3. Run maven install to install QueryDsl Predicate executor classes used for querying mongo repos
+4. Run file
+
+*Note: Username: Admin
+       password: adminpassword
+
+grants admin authorities with Role access to admin roles
